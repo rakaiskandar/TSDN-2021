@@ -1,4 +1,4 @@
-## Turnamen Sains Data Nasional
+### Turnamen Sains Data Nasional
 Ini adalah projek yang digunakan saya dan tim untuk mengikuti Turname Sains Data Nasional 2022. Kami membahas tentang tren Covid-19 dan dampaknya terhadap beberapa bidang sosial ekonomi di Jawa Barat.
 
 ## Built with
