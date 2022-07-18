@@ -5,4 +5,4 @@ Ini adalah projek yang digunakan saya dan tim untuk mengikuti Turname Sains Data
 - [Tableau](https://www.tableau.com/)
 
 ## Preview 
-[Click here to see Visualization](https://public.tableau.com/app/profile/raka.iskandar/viz/COVIDJABARfix/JumlahWisatawanMancanegara)
+[Klik untuk melihat preview Visualisasi](https://public.tableau.com/app/profile/raka.iskandar/viz/COVIDJABARfix/JumlahWisatawanMancanegara)
